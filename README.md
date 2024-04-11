@@ -23,5 +23,5 @@
 因此订单表与配送信息表之间是一对多的关系。消费者通过系统下单购买商品，一个消费者可以创建多个订单，
 因此消费者表与订单表是一对多的关系。此外，每个配送信息可能涉及多个物品，例如一个订单中有多个商品需要配送，所以配送信息表与物品信息表是一对多的关系。
 
-**ER图**：![ER](https://github.com/zz978233034/logistics-SQL/blob/master/resource/E-R%E5%9B%BE.pdf)
+**ER图**：![ER](https://github.com/zz978233034/logistics-SQL/blob/master/resource/ER.png)
 
