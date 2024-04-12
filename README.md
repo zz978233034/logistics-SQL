@@ -25,3 +25,6 @@
 
 **ER图**：![ER](https://github.com/zz978233034/logistics-SQL/blob/master/resource/ER.png)
 
+# 版权声明
+**该项目为：“安徽大学计算机科学与技术学院ISEC智能软件与边缘计算实验室”所有**
+
